@@ -11,10 +11,7 @@
 # word = ' Hello World!!!'
 # print(wor
 # word = " HEllo world!!!"
-# print(word)
-
-
-
+# print(word
 #
 # stix="Я к вам пишу — чего же боле? \n\
 # Что я могу еще сказать?\n\
